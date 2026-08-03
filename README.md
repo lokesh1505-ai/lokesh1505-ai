@@ -109,12 +109,12 @@ Seeking opportunities as an **AI Engineer** or **Software Developer** where I ca
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh1505-ai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lokesh1505-ai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/
   <img src="https://streak-stats.demolab.com?user=lokesh1505-ai&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1505-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lokesh1505-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
