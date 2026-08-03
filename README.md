@@ -118,17 +118,3 @@ Seeking opportunities as an **AI Engineer** or **Software Developer** where I ca
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokesh1505-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokesh1505-ai&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
