@@ -29,7 +29,7 @@ Building AI-powered applications, RAG systems, and modern full-stack software.
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.Tech Information Technology Student (2026)
+🎓 B.Tech Information Technology Student (2026)
 
 🤖 AI Engineer & Software Developer passionate about building intelligent applications and solving real-world problems.
 
