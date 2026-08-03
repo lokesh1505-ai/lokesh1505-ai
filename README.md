@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
-AI Engineer • Software Developer
+B.Tech IT Graduate • Open to AI Engineer & Software Developer Opportunities
 </h3>
+
 
 <p align="center">
 Building AI-powered applications, RAG systems, and modern full-stack software.
