@@ -103,3 +103,32 @@ Seeking opportunities as an **AI Engineer** or **Software Developer** where I ca
 - TATA Forage Virtual Job Simulation
 - Data analysis using AI
 - Business insights and visualization
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh1505-ai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh1505-ai&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1505-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lokesh1505-ai&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokesh1505-ai&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
