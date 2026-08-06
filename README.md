@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
-
-<h3 align="center">
-B.Tech IT Graduate • Open to AI Engineer & Software Developer Opportunities
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Lokesh;Aspiring+AI+Engineer;Software+Developer;Open+to+Work" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
